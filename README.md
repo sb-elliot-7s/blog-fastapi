@@ -7,4 +7,4 @@ API for Blog site using FastAPI
 4. alembic revision --autogenerate -m "Added tables"
 5. alembic upgrade head
 6. create test database in pgadmin = ex ~ db_test
-7. add image to articles/tests/ with name win11.jpeg or your imagename and change in .env file = TEST_IMAGE_PATH
+7. add image to articles/tests/ with name win11.jpeg or your image and change in .env file = TEST_IMAGE_PATH
